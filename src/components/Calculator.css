@@ -1,6 +1,7 @@
 body{
     display: flex;
     justify-content: center;
+    background-color: rgb(90, 155, 81);
 }
 button{
     width: 3em;
