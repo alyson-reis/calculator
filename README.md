@@ -11,7 +11,7 @@ O objetivo é praticar conceitos de **Front-end**, como **componentização, ger
 - JavaScipt
 - React 
 
-## Funcionalidades
+## ✨ Funcionalidades
 
 - Interface inspirada na calculadora da Samsung
 - Operações básicas: adição ➕, subtração ➖, multiplicação ✖️ e divisão ➗
