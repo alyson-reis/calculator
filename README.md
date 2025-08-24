@@ -6,16 +6,14 @@ O objetivo é praticar conceitos de **Front-end**, como **componentização, ger
 ---
 
 ## 🚀 Tecnologias utilizadas
-- [React] ⚛️
-- [Vite](https://vitejs.dev/) ⚡
-- [TailwindCSS](https://tailwindcss.com/) 🎨
-- [TypeScript](https://www.typescriptlang.org/) (opcional)
+- HTML
+- CSS
+- JavaScipt
+- React 
 
----
+## Funcionalidades
 
-## 📸 Demonstração
-![Preview da Calculadora](./src/assets/images/preview.png)
-
----
-
-## 📂 Estrutura de pastas (exemplo)
+- Interface inspirada na calculadora da Samsung
+- Operações básicas: adição ➕, subtração ➖, multiplicação ✖️ e divisão ➗
+- Limpar toda a conta (C)
+- Responsividade para celular
