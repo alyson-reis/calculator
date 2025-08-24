@@ -6,7 +6,7 @@ O objetivo é praticar conceitos de **Front-end**, como **componentização, ger
 ---
 
 ## 🚀 Tecnologias utilizadas
-- [React](https://react.dev/) ⚛️
+- [React] ⚛️
 - [Vite](https://vitejs.dev/) ⚡
 - [TailwindCSS](https://tailwindcss.com/) 🎨
 - [TypeScript](https://www.typescriptlang.org/) (opcional)
