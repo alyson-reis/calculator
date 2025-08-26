@@ -5,7 +5,7 @@ import { Box, Container } from '@mui/material';
 export default function Calculator() {
   const [expression, setExpression] = useState('');
   const [result, setResult] = useState('');
-  const [openParen, setOpenParen] = useState(true); // Alternar parênteses
+  const [openParen, setOpenParen] = useState(true); 
   
   function input(value) {
     setExpression(prev => {
